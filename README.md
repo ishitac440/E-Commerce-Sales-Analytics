@@ -11,7 +11,11 @@ This project demonstrates data modeling, SQL querying, DAX calculations, KPI cre
 ## 📊 Dashboard Preview
 
 
-![Dashboard](Image/Dashboard.png)
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <img src="Dashboard.png" alt="E-Commerce Sales Analytics Dashboard" width="1000">
+</p>
 
 ---
 
