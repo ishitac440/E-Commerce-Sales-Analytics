@@ -11,7 +11,7 @@ This project demonstrates data modeling, SQL querying, DAX calculations, KPI cre
 ## 📊 Dashboard Preview
 
 
-![E-Commerce Sales Analytics](Image/Dashboard.png)
+![Dashboard](Image/Dashboard.png)
 
 ---
 
