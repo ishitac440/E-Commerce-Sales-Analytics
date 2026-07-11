@@ -8,9 +8,6 @@ This project demonstrates data modeling, SQL querying, DAX calculations, KPI cre
 
 ---
 
-## 📊 Dashboard Preview
-
-
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
