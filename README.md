@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analytics Dashboard | SQL & Power BI Capstone Project
+# 🛒 E-Commerce Sales Analytics| SQL & Power BI Capstone Project
 
 ## 📌 Project Overview
 
@@ -10,9 +10,8 @@ This project demonstrates data modeling, SQL querying, DAX calculations, KPI cre
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](Images/Dashboard.png)
+![E-Commerce Sales Analytics](Image/Dashboard.png)
 
 ---
 
